@@ -1,0 +1,38 @@
+# Dataset files (large, should not be in version control)
+ibtracs.ALL.list.v04r01.csv
+hurricane_paths_cleaned.pkl
+hurricane_paths_cleaned.csv
+dataset_summary.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
